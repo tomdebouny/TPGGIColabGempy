@@ -10,7 +10,6 @@ beautifulsoup4==4.12.3
 bleach==6.2.0
 bottleneck==1.4.2
 brotli==1.1.0
-ca-certificates==2024.12.14
 cached-property==1.5.2
 cached_property==1.5.2
 certifi==2024.12.14
